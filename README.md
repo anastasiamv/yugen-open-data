@@ -37,4 +37,4 @@ The database is released under the [Open Database License (ODbL) 1.0](https://op
 
 ## Contact
 
-Anastasia — anmatlaeva@gmail.com
+Anastasiia — anmatlaeva@gmail.com
